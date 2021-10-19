@@ -1,0 +1,98 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-preview></mj-preview>
+    <mj-style>
+      
+  u + #body a,
+  #MessageViewBody a,
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  
+  u + .body .glist { margin-left: 0 !important; } 
+  
+  @media only screen and (max-width:599px) {
+    #body { height:100% !important; margin:0 !important; padding:0 !important; width:100% !important; }
+    u + .body .glist { margin-left: 25px !important; }
+    td.x { padding-left: 0!important; padding-right: 0!important; }
+    br.sb { display: none!important; }
+    .hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+    div.r.pr-16 > table > tbody > tr > td { padding-right:16px!important }div.r.pl-16 > table > tbody > tr > td { padding-left:16px!important }td.i.h img { height:NaNpx!important }div.r.pt-0 > table > tbody > tr > td { padding-top:0px!important }div.r.pr-0 > table > tbody > tr > td { padding-right:0px!important }div.r.pb-0 > table > tbody > tr > td { padding-bottom:0px!important }div.r.pl-0 > table > tbody > tr > td { padding-left:0px!important }td.v.s-8 > div.mj-inline-links > a.l.m { padding-right:8px!important; }
+  
+  }
+    @media (prefers-color-scheme: dark) {div.r.db-000000, div.r.db-000000 > table { background:#000000!important; }div.r.dt-FFFFFF * { color:#FFFFFF!important }
+    }
+    </mj-style>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-breakpoint width="599px"></mj-breakpoint>
+    <mj-font href="https://fonts.googleapis.com/css?family=Roboto:700,400" name="Roboto"></mj-font>
+    <mj-style inline="inline">
+      .hd-1, .ds-1 { mso-hide: all; display: none; height: 0; overflow: hidden; } .hd-1 *, .ds-1 * { mso-hide: all; }
+    </mj-style>
+    <mj-raw>
+      
+    <meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
+    <!--[if gte mso 9]>
+    <style>
+    li {
+        text-indent: -1em;
+    }
+    </style>
+    <![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#e5e5e5" width="600px">
+    <mj-section background-color="#ffffff" border-radius="0" border="none" css-class="r  pr-16 pl-16 db-000000 dt-FFFFFF " padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="#ffffff" border="none" css-class="c  " vertical-align="middle" width="568px">
+        <mj-image align="center" alt="" border-radius="0" css-class="i  " fluid-on-mobile="false" padding-bottom="0" padding="0" src="img/9a8108ef70fd700c60d3fee3a1dd314e.png" width="138px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image align="left" alt="" css-class="h  pt-32 pr-16 pb-32 pl-16 " fluid-on-mobile="true" height="auto" padding="0" src="img/609bf2b9a64a9e9e8c0958f92b199314.jpg" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#4b3303" border-radius="0" border="none" css-class="r  pr-16 pl-16 " padding="32px 32px 32px 32px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="536px">
+        <mj-text align="center" css-class="x  " font-family="Roboto, Arial, sans-serif" font-size="28px" line-height="32px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Roboto, Arial, sans-serif;font-weight:700;color:#d8d086;line-height:32px;">START SHOPPING</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" border-radius="0" border="none" css-class="r  pt-0 pr-0 pb-0 pl-0 " padding="0" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="600px">
+        <mj-image align="center" alt="" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" padding-bottom="0" padding="0" src="img/12a8d321589cd65c4a550fbef8f0c79f.jpg" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#4b3303" border-radius="0" border="none" css-class="r  pr-16 pl-16 " padding="32px 32px 32px 32px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="536px">
+        <mj-text align="center" css-class="x  " font-family="Roboto, Arial, sans-serif" font-size="28px" line-height="32px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Roboto, Arial, sans-serif;font-weight:700;color:#d8d086;line-height:32px;">START SHOPPING</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#eeeeee" border-radius="0" border="none" css-class="r  pr-16 pl-16 db-000000 dt-FFFFFF " padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="568px">
+        <mj-text align="center" css-class="x  m" font-family="Roboto, Arial, sans-serif" font-size="11px" line-height="13px" padding-bottom="16px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:11px;font-family:Roboto, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:13px;">No Longer want to receive these emails? </span></p>
+        </mj-text>
+        <mj-navbar align="center" css-class="v  s-8 ">
+          <mj-navbar-link css-class="l  m" font-family="Roboto, Arial, sans-serif" href="#insertUrlLink" line-height="0" padding-bottom="0" padding-left="0" padding-right="8px" padding-top="0" padding="0" text-transform="none">
+            <span style="mso-line-height-rule: exactly;font-size:13px;font-family:Roboto, Arial, sans-serif;font-weight:400;color:#4d4d4d;line-height:15px;text-decoration:underline;">Unsubscribe</span>
+          </mj-navbar-link>
+          <mj-navbar-link css-class="l  " font-family="Roboto, Arial, sans-serif" href="#insertUrlLink" line-height="0" padding-bottom="0" padding-left="0" padding-right="0" padding-top="0" padding="0" text-transform="none">
+            <span style="mso-line-height-rule: exactly;font-size:13px;font-family:Roboto, Arial, sans-serif;font-weight:400;color:#4d4d4d;line-height:15px;text-decoration:underline;">View in the browser</span>
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
