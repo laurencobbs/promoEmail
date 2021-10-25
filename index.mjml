@@ -40,13 +40,7 @@
     <mj-raw>
       
     <meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
-    <!--[if gte mso 9]>
-    <style>
-    li {
-        text-indent: -1em;
-    }
-    </style>
-    <![endif]-->
+ 
     </mj-raw>
   </mj-head>
   <mj-body background-color="#e5e5e5" width="600px">
